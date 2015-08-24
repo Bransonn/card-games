@@ -1,3 +1,4 @@
+# Imported so the lists can be shuffled
 import random
 
 # Creating Decks with values 1-10. The values are used as cards
